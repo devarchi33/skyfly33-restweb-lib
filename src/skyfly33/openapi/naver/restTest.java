@@ -1,4 +1,4 @@
-package skyfly33.restful;
+package skyfly33.openapi.naver;
 
 import java.io.BufferedReader;
 import java.io.IOException;
